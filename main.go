@@ -6,6 +6,7 @@ import (
 	"log/slog"
 	"time"
 
+	"github.com/jonavdm/aoc-2025/day01"
 	"github.com/jonavdm/aoc-2025/utils"
 )
 
@@ -27,7 +28,7 @@ func main() {
 	}
 
 	runners := []Runner{
-		// {1, day01.Run, "day01"},
+		{1, day01.Run, "day01"},
 		// {2, day02.Run, "day02"},
 		// {3, day03.Run, "day03"},
 		// {4, day04.Run, "day04"},
