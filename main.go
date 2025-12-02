@@ -77,7 +77,7 @@ func main() {
 func printHeader(onlyTime bool) {
 	if !onlyTime {
 		fmt.Println(" ╔═════════════════════════════════════════════════════════╗")
-		fmt.Println(" ║                -- Advent Of Code 2024 --                ║")
+		fmt.Println(" ║                -- Advent Of Code 2025 --                ║")
 		fmt.Println(" ╚═════════════════════════════════════════════════════════╝")
 		fmt.Println()
 		fmt.Println(" ┏━━━━━┯━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━┓")
