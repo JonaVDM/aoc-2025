@@ -10,6 +10,7 @@ import (
 	"github.com/jonavdm/aoc-2025/day02"
 	"github.com/jonavdm/aoc-2025/day03"
 	"github.com/jonavdm/aoc-2025/day04"
+	"github.com/jonavdm/aoc-2025/day05"
 	"github.com/jonavdm/aoc-2025/utils"
 )
 
@@ -35,7 +36,7 @@ func main() {
 		{2, day02.Run, "day02"},
 		{3, day03.Run, "day03"},
 		{4, day04.Run, "day04"},
-		// {5, day05.Run, "day05"},
+		{5, day05.Run, "day05"},
 		// {6, day06.Run, "day06"},
 		// {7, day07.Run, "day07"},
 		// {8, day08.Run, "day08"},
